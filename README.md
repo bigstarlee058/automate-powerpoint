@@ -2,7 +2,13 @@
 *Boost your Productivity with an Automated Tool for the Creation of Supply Chain Operational PowerPoint Reports with Python*
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/640/1*7VsIJ0GqJDD41-iBnOBMhQ.png">
+  <a href="https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/640/1*7VsIJ0GqJDD41-iBnOBMhQ.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 ### Article
@@ -22,7 +28,13 @@ You are part of the distribution planning team of an international clothing reta
 Your distribution network includes several local warehouses that replenish the stores.
 
 <p align="center">
-  <img align="center" src="https://miro.medium.com/max/786/0*is83sxgN8c9frFe1.png">
+  <a href="https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://miro.medium.com/max/786/0*is83sxgN8c9frFe1.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
 On a regular basis, you have to share warehouse operational indicators with your management.
@@ -36,20 +48,24 @@ This is a manual process in which you need to
 To be efficient, you would like to automate the process of PowerPoint deck creation.
 
 <p align="center">
-  <img align="center" src="https://cdn-images-1.medium.com/max/800/1*U6CScNXBStNN-BYUX_xIDQ.png">
+  <a href="https://www.samirsaci.com/automate-powerpoint-slides-creation-with-python/" target="_blank" rel="noopener noreferrer">
+    <img
+      align="center"
+      src="https://cdn-images-1.medium.com/max/800/1*U6CScNXBStNN-BYUX_xIDQ.png"
+      style="max-width: 100%; height: auto;"
+    >
+  </a>
 </p>
 
-Your solution will be fully automated
-
+Your solution will be fully automated:
 - Extract order lines of the last month from the WMS SQL database
 - Process the data and compute KPIs with key insights by week
 - Automatically put the visuals and insights in a PowerPoint presentation
 
 ## Code
-This repository code you will find all the code used to explain the concepts presented in the article.
+In this repository, you will find all the code used to explain the concepts presented in the article.
 
 ## About me 🤓
-Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations. \
-For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)
-
+Senior Supply Chain and Data Science consultant with international experience working on Logistics and Transportation operations.\
+For **consulting or advising** on analytics and sustainable supply chain transformation, feel free to contact me via [Logigreen Consulting](https://www.logi-green.com/)\
 Please have a look at my personal blog: [Personal Website](https://samirsaci.com)
